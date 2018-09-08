@@ -1,2 +1,1 @@
-# maven-in-action
-Code of《Maven In Action》
+Code of Book 《Maven In Action》
